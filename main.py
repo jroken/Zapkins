@@ -32,7 +32,7 @@ def make_phone_call(phone_number):
 
 
 
-phone_number = "+905457302177"  # Aranacak telefon numarasını buraya ekleyin
+phone_number = "+905555555555"  # Aranacak telefon numarasını buraya ekleyin
 make_phone_call(phone_number)
 
 def send_message_to_discord(message):
